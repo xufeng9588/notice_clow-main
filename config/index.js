@@ -1,4 +1,4 @@
-const keyWords = ['下线','下線','升級','調整','调整','停止','暂停',''];
+const keyWords = ['下线','下線','升級','調整','调整','停止','暂停','移除'];
 const config = [
     {
         exchange:'HUOBI',
